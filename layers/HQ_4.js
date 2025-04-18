@@ -1,0 +1,1 @@
+var json_HQ_4 = {"type":"FeatureCollection","name":"HQ_4","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Name":"Dodoma","x":35.75068,"y":-6.17847},"geometry":{"type":"Point","coordinates":[35.750677190072714,-6.178469736263454]}}]}
